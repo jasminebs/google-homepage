@@ -5,6 +5,7 @@
 <body>
 	<h1>A clone of Google's homepage - HTML/CSS Practice</h1>
 
-	<p>For more details, click <a href="http://www.theodinproject.com/web-development-101/html-css?ref=lnav">here</a>!</p>
+	For more details, click
+	<a href="http://www.theodinproject.com/web-development-101/html-css?ref=lnav">here</a>!
 </body>
 </html>
