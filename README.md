@@ -1,2 +1,11 @@
-# google-homepage
-A clone of Google's homepage
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google - cloned by Jasmine</title>
+</head>
+<body>
+	<h1>A clone of Google's homepage - HTML/CSS Practice</h1>
+
+	<p>For more details, click <a href="http://www.theodinproject.com/web-development-101/html-css?ref=lnav">here</a>!</p>
+</body>
+</html>
